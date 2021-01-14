@@ -1,0 +1,43 @@
+body {
+    font-family: "Lucida Grande", sans-serif;
+}
+
+span {
+    color: black;
+}
+
+li {
+    list-style: none;
+}
+
+.header {
+  color: #fff;
+  height: 70px;
+  background-color: gray;
+}
+
+.am-font {
+    font-size: 15px;
+    color: blue;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+.Ab {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+
+.footer {
+    text-align: center;
+}
+
+button:hover {
+    background-color: blue;
+}

@@ -1,0 +1,13 @@
+h2 {
+    text-align: center;
+    color: #FF6347;
+    font-family: Comic, sans-serif;
+    font-weight: bold;
+    font-size: 60px
+}
+
+img {
+    width: 50%;
+    margin: 1px auto;
+    display: block;
+}
